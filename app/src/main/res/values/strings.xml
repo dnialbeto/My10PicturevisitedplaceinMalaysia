@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">1. KUALA LUMPUR</string>
+    <string name="affirmation2">2. ALOR SETAR</string>
+    <string name="affirmation3">3. CAMERON HIGHLAND</string>
+    <string name="affirmation4">4. GENTING HIGHLAND</string>
+    <string name="affirmation5">5. PULAU PANGKOR</string>
+    <string name="affirmation6">6. IPOH</string>
+    <string name="affirmation7">7. TERENGGANU</string>
+    <string name="affirmation8">8. PULAU PINANG</string>
+    <string name="affirmation9">9. LUMUT</string>
+    <string name="affirmation10">10. MELAKA</string>
+</resources>
